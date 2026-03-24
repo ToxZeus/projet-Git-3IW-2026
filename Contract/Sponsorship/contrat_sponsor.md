@@ -1,0 +1,1 @@
+Contrat sponsor majeur : Michelin
