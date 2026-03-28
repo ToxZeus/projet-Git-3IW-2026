@@ -1,0 +1,24 @@
+{
+  "name": "projet-git-3iw-2026",
+  "version": "1.0.0",
+  "description": "![CI Linter](https://img.shields.io/badge/CI-Passing-success?style=for-the-badge&logo=githubactions)\r ![Git Flow](https://img.shields.io/badge/Workflow-Git_Flow-blue?style=for-the-badge&logo=git)\r ![Security](https://img.shields.io/badge/Commits-Signed-green?style=for-the-badge&logo=gnupg)",
+  "main": "index.js",
+  "devDependencies": {
+    "markdownlint-cli": "^0.48.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ToxZeus/projet-Git-3IW-2026.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ToxZeus/projet-Git-3IW-2026/issues"
+  },
+  "homepage": "https://github.com/ToxZeus/projet-Git-3IW-2026#readme"
+}

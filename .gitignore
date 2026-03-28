@@ -1,5 +1,6 @@
 .env
 donner-sensible.txt
+node_modules/
 
 finances/
 
