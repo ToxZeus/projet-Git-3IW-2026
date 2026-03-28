@@ -1,0 +1,9 @@
+.env
+donner-sensible.txt
+node_modules/
+
+finances/
+
+kc.db
+
+*.logs

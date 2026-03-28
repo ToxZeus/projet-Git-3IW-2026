@@ -1,0 +1,3 @@
+# Pourcentage de parts recalcule
+
+Mise a jour validee.
