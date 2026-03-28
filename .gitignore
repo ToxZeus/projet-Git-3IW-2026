@@ -1,0 +1,8 @@
+.env
+donner-sensible.txt
+
+finances/
+
+kc.db
+
+*.logs
