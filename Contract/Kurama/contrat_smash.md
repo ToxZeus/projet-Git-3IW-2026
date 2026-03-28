@@ -1,1 +1,3 @@
-Contrat Smash Bros - Joueur : Kurama
+# Contrat Smash Bros - Joueur : Kurama
+
+Mise a jour validee.

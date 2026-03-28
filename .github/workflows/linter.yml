@@ -1,0 +1,25 @@
+name: Linter Markdown KCorp
+
+on:
+  push:
+    branches: [ "develop", "prod" ]
+  pull_request:
+    branches: [ "develop", "prod" ]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupération du code
+        uses: actions/checkout@v3
+
+      - name: Installation de Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Installation du Linter
+        run: npm install -g markdownlint-cli
+
+      - name: Exécution du Linter
+        run: markdownlint "**/*.md" --ignore "node_modules"

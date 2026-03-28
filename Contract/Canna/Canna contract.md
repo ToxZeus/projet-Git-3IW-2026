@@ -1,4 +1,4 @@
-CANNA KARMINE CORP - SERVICE AGREEMENT CONTRACT
+# CANNA KARMINE CORP - SERVICE AGREEMENT CONTRACT
 
 This Agreement is entered into as of January 15, 2025 (Date)
 
@@ -19,7 +19,8 @@ The Client agrees to pay the Company the sum of $5,000 for services rendered.
 Payment terms: Net 30 days from invoice date
 
 3. TERM
-This agreement shall commence on January 15, 2025 and terminate on December 31, 2025.
+This agreement shall commence on January 15, 2025 and terminate on December 31,
+in 2025.
 
 4. CONFIDENTIALITY
 Both parties agree to maintain confidentiality regarding proprietary information.
